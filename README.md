@@ -8,6 +8,10 @@ As Winston Churchill:
 ### Description
 SoundUs website where you can have your own channel and ability to upload audio of your own . Podcast website offer Subscription other channels and interact with them in efficient and effective way . Enjoy the journey
 
+### Website
+
+https://podcast-titanum.herokuapp.com/
+
 ### Wireframes
 
 <details>
