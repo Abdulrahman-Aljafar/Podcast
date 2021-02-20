@@ -66,9 +66,7 @@ https://podcast-titanum.herokuapp.com/
 * Refresh page problem of react using if statment
 * Image url using API
 
-### Acknowledgments
-* Ali King of creative solutions 
-* Yasir King of css
+
  ### References
 * [W3school](https://www.w3schools.com/)
 * [Stackoverflow](https://stackoverflow.com/)
