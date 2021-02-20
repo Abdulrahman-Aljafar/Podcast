@@ -1,0 +1,23 @@
+/* body{
+    background-color: #333;
+} */
+
+.nav-pro{
+    position: relative;
+    left: 800px;
+    border-bottom: 3px solid #007bff;
+    }
+    .nav-signup{
+    border-bottom: 3px solid #007bff;
+    
+    }
+    .nav-login{
+    
+        border-bottom: 3px solid #007bff;
+    }
+    
+    
+    .topnav-right {
+        float: right;
+      }
+    

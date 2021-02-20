@@ -1,0 +1,79 @@
+.main3{
+    /* background-image: url("https://i.pinimg.com/236x/f0/53/bb/f053bb3c4fa35fd496ff332b4ca17c9b.jpg"); */
+    background-repeat:initial;
+    min-height: 100vh;
+    /* background-size: cover; */
+    /* background-color: #46344a; */
+}
+.form-control {
+    min-height: 41px;
+    box-shadow: white;
+    border-color: #e6e6e6;
+}
+/* .form-control:focus {
+    border-color:  yellow;} */
+.form-control, .btn {        
+    border-radius: 20px;
+}
+.edit-form {
+    width: 425px;
+    margin: 8px auto;
+    padding: 30px 0;
+}
+.edit-form h2 .btn-primary{
+    color: #333;
+    font-weight: bold;
+    margin: 0 0 25px;
+}
+.edit-form form {
+    margin-bottom: 15px;
+    background: #fff;
+    border: 1px solid #f4f4f4;
+    box-shadow: 0 12px 40px rgba(0,0,0,.12);
+    padding: 40px 50px;
+    caret-color: rgb(245, 49, 15);
+}
+.edit-form .form-group {
+    margin-bottom: 20px;
+}
+.edit-form label {
+    font-weight: normal;
+    font-size: 13px;
+}
+.edit-form input[type="checkbox"] {
+    margin-top: 2px;
+}    
+.edit-form .btn {        
+    font-size: 16px;
+    font-weight: bold;
+    background :#f4f4f4;
+    border: none;
+    min-width: 140px;
+    outline: none !important;
+}
+.edit-form .btn:hover .edit-form .btn:focus{
+    background: #f4f4f4;
+}
+#but{
+    background-color:  rgb(27, 29, 27);
+    border-radius: 20px;
+               box-shadow: inset 0px 5px 5px #e0e2c4;
+               -moz-box-shadow:    inset 0 0 10px #e0e2c4;
+               -webkit-box-shadow: inset 0 0 10px #e0e2c4;
+               box-shadow:         inset 0 0 10px #e0e2c4;    
+}
+/* 
+.signup-form a {
+    color:  rgb(98, 154, 98);
+    text-decoration: none;
+}	 */
+.edit-form a:hover {
+    text-decoration: underline;
+}
+.edit-form .form-control {
+    background-color : #d1d1d137; 
+} 
+#pass{
+    color: black;
+    font-size: 15px;
+}
